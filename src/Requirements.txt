@@ -1,0 +1,19 @@
+/*
+
+    Movie: Name, Date, Time, Genre
+
+    Theatre: Theatre Name,Total Number of seats, No of seats available, Screen Number
+
+
+    pickAMovie();
+    pickTheatre();
+
+    selectASeat();
+    makePayment();
+    reserved(); //Booking Confirmation
+
+    //Classes
+    Movie, Theatre,
+
+
+*/
